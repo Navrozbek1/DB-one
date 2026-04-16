@@ -9,7 +9,7 @@ with sql.connect("databese-5.db") as con:
         id INTEGER PRIMARY KEY,
         ism TEXT,
         fam TEXT,
-        yosh INTEGER,
+        yosh INTEGER
         )""")
     
     # TEXNIKALAR JADVALI 
@@ -17,7 +17,7 @@ with sql.connect("databese-5.db") as con:
         id INTEGER PRIMARY KEY,
         user_id INTEGER,
         t_nomi TEXT, 
-        t_narxi INTEGER,
+        t_narxi INTEGER
         )""")
     
     # (users) ga malumot qo'shish
