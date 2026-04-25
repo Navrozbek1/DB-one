@@ -1,6 +1,69 @@
 ## Mavzular 
 1. [Sintaksis](#sintaksis)
 
+
+
+
+
+
+ff
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # Sintaksis
 
 SELECT ustunlar FROM jadval ORDER BY ustun [ASC | DESC];
